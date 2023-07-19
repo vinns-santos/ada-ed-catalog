@@ -1,0 +1,13 @@
+id;title;type;release_year;age_certification;runtime;genres;production_countries;seasons;imdb_id;imdb_score;imdb_votes;tmdb_popularity;tmdb_score
+ts300399;Five Came Back: The Reference Films;SHOW;1945;TV-MA;51;['documentation'];['US'];1.0;;;;0.6;
+tm84618;Taxi Driver;MOVIE;1976;R;114;['drama', 'crime'];['US'];;tt0075314;8.2;808582.0;40.965;8.179
+tm154986;Deliverance;MOVIE;1972;R;109;['drama', 'action', 'thriller', 'european'];['US'];;tt0068473;7.7;107673.0;10.01;7.3
+tm127384;Monty Python and the Holy Grail;MOVIE;1975;PG;91;['fantasy', 'action', 'comedy'];['GB'];;tt0071853;8.2;534486.0;15.461;7.811
+tm120801;The Dirty Dozen;MOVIE;1967;;150;['war', 'action'];['GB', 'US'];;tt0061578;7.7;72662.0;20.398;7.6
+tm120801;The Dirty Dozen;MOVIE;1967;;150;['war', 'action'];['GB', 'US'];;tt0061578;7.7;72662.0;20.398;7.6
+ts22164;Monty Python's Flying Circus;SHOW;1969;TV-14;30;['comedy', 'european'];['GB'];4.0;tt0063929;8.8;73424.0;17.617;8.306
+tm70993;Life of Brian;MOVIE;1979;R;94;['comedy'];['GB'];;tt0079470;8.0;395024.0;17.77;7.8
+tm14873;Dirty Harry;MOVIE;1971;R;102;['thriller', 'action', 'crime'];['US'];;tt0066999;7.7;155051.0;12.817;7.5
+tm119281;Bonnie and Clyde;MOVIE;1967;R;110;['crime', 'drama', 'action'];['US'];;tt0061418;7.7;112048.0;15.687;7.5
+tm119281;Bonnie and Clyde;MOVIE;1967;R;110;['crime', 'drama', 'action'];['US'];;tt0061418;7.7;112048.0;15.687;7.5
+tm98978;The Blue Lagoon;MOVIE;1980;R;104;['romance', 'action', 'drama'];['US'];;tt0080453;5.8;69844.0;50.324;6.156
